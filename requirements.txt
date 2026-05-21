@@ -1,0 +1,13 @@
+Flask==3.0.3
+flask-cors==4.0.1
+pymongo==4.8.0
+bcrypt==4.2.0
+python-dotenv==1.0.1
+gridfs==4.8.0
+flask-jwt-extended==4.6.0
+Werkzeug==3.0.3
+apscheduler==3.10.4
+pytesseract==0.3.10
+Pillow==10.4.0
+PyMuPDF==1.24.9
+gunicorn==22.0.0
